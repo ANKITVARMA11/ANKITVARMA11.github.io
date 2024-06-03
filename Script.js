@@ -22,7 +22,3 @@
 //     console.log("Yeah! variable 'a' is greater than 0")
 // }
 
-let a ="Adharmi"
-if(a){
-    alert("You are an adharmi!!")
-}

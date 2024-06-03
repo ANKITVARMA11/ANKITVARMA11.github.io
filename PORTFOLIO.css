@@ -21,10 +21,15 @@ body {
 #Name{
     font-size: 150px;
     color: rgb(255, 255, 255);
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: black;
     width: auto;
     align-self: center;
     position:fixed;
     z-index: -1;
+}
+#Name:hover{
+    transform: scale(1.4);
 }
 
 
